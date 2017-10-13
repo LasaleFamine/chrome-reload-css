@@ -7,9 +7,9 @@
 
 ***Currently only from source***
 
-		$ git clone https://github.com/LasaleFamine/chrome-reload-css
-		$ cd chrome-reload-css
-		$ yarn && yarn build
+	$ git clone https://github.com/LasaleFamine/chrome-reload-css
+	$ cd chrome-reload-css
+	$ yarn && yarn build
 
 Then you need to load an "Unpacked extensions" from your `chrome://extensions` page, enabling the "extension developer mode".
 
@@ -17,7 +17,7 @@ Then you need to load an "Unpacked extensions" from your `chrome://extensions` p
 
 Clone, install dependencies and run `webpack` with watch on files:
 
-		$ yarn dev
+	$ yarn dev
 
 
 ## License
