@@ -13,6 +13,12 @@
 
 Then you need to load an "Unpacked extensions" from your `chrome://extensions` page, enabling the "extension developer mode".
 
+## Develop
+
+Clone, install dependencies and run `webpack` with watch on files:
+
+		$ yarn dev
+
 
 ## License
 
